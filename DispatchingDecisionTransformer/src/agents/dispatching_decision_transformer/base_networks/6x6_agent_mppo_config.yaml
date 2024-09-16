@@ -1,0 +1,168 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.4
+    framework: torch
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.13
+    start_time: 1677088229.581272
+    t:
+      1:
+      - 1
+      - 5
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 53
+      - 55
+      3:
+      - 2
+      - 16
+      - 23
+      4: 3.9.13
+      5: 0.13.4
+      8:
+      - 5
+algorithm:
+  desc: null
+  value: ppo_masked
+batch_size:
+  desc: null
+  value: 256
+clip_range:
+  desc: null
+  value: 0.2
+config_description:
+  desc: null
+  value: 6x6x0
+ent_coef:
+  desc: null
+  value: 0.0
+environment:
+  desc: null
+  value: env_tetris_scheduling
+experiment_save_path:
+  desc: null
+  value: models
+gamma:
+  desc: null
+  value: 0.99
+instances_file:
+  desc: null
+  value: jssp/config_job6_task6_tools0_5000.pkl
+intermediate_test_interval:
+  desc: null
+  value: 30000
+learning_rate:
+  desc: null
+  value: 0.0001
+log_interval:
+  desc: null
+  value: 1000
+n_epochs:
+  desc: null
+  value: 5
+num_heads:
+  desc: null
+  value: 5
+num_modules:
+  desc: null
+  value: 1
+num_steps_max:
+  desc: null
+  value: 90
+observation_scheme:
+  desc: null
+  value:
+  - sensible_obs
+  - mtr_comparison
+  - bottleneck_machine_latenesses
+observation_strategy:
+  desc: null
+  value:
+  - sensible_obs
+  - mtr_comparison
+overwrite_split_seed:
+  desc: null
+  value: true
+policy:
+  desc: null
+  value: mlp
+policy_activation:
+  desc: null
+  value: ReLU
+policy_layer:
+  desc: null
+  value:
+  - 256
+  - 256
+reward_function:
+  desc: null
+  value: sparse_reward
+reward_scale:
+  desc: null
+  value: 1
+reward_strategy:
+  desc: null
+  value: dense_makespan_reward
+rollout_steps:
+  desc: null
+  value: 2048
+saved_model_name:
+  desc: null
+  value: saved_agent
+seed:
+  desc: null
+  value: 3
+shuffle:
+  desc: null
+  value: false
+success_metric:
+  desc: null
+  value: makespan_mean
+taillard_test:
+  desc: null
+  value: false
+test_heuristics:
+  desc: null
+  value:
+  - rand
+  - EDD
+  - SPT
+  - MTR
+  - LTR
+test_validation_split:
+  desc: null
+  value: 0.8
+total_instances:
+  desc: null
+  value: 1000000
+total_timesteps:
+  desc: null
+  value: 1500000
+train_test_split:
+  desc: null
+  value: 0.96
+value_activation:
+  desc: null
+  value: ReLU
+value_layer:
+  desc: null
+  value:
+  - 256
+  - 256
+wandb_gantt:
+  desc: null
+  value: true
+wandb_mode:
+  desc: null
+  value: 2
+wandb_project:
+  desc: null
+  value: ppo-test
+

@@ -1,0 +1,44 @@
+0: nls, ta71, steps=200, {'cost_mean': 5809.999981404282, 'cost_std': 0.0, 'run_time_mean': 45.340831499997876, 'run_time_total': 45.340831499997876, 'num_infeasible': 0}
+1: nls, ta72, steps=200, {'cost_mean': 5438.999993182719, 'cost_std': 0.0, 'run_time_mean': 40.984187300000485, 'run_time_total': 40.984187300000485, 'num_infeasible': 0}
+2: nls, ta73, steps=200, {'cost_mean': 6122.999994205311, 'cost_std': 0.0, 'run_time_mean': 46.5414518999969, 'run_time_total': 46.5414518999969, 'num_infeasible': 0}
+3: nls, ta74, steps=200, {'cost_mean': 5483.999983090907, 'cost_std': 0.0, 'run_time_mean': 38.83774790000098, 'run_time_total': 38.83774790000098, 'num_infeasible': 0}
+4: nls, ta75, steps=200, {'cost_mean': 5902.999992934987, 'cost_std': 0.0, 'run_time_mean': 43.37447739999698, 'run_time_total': 43.37447739999698, 'num_infeasible': 0}
+5: nls, ta76, steps=200, {'cost_mean': 5727.999999367632, 'cost_std': 0.0, 'run_time_mean': 41.36298689999967, 'run_time_total': 41.36298689999967, 'num_infeasible': 0}
+6: nls, ta77, steps=200, {'cost_mean': 5593.000010926276, 'cost_std': 0.0, 'run_time_mean': 44.892063999999664, 'run_time_total': 44.892063999999664, 'num_infeasible': 0}
+7: nls, ta78, steps=200, {'cost_mean': 5723.999978994951, 'cost_std': 0.0, 'run_time_mean': 52.62848800000211, 'run_time_total': 52.62848800000211, 'num_infeasible': 0}
+8: nls, ta79, steps=200, {'cost_mean': 5606.000003999099, 'cost_std': 0.0, 'run_time_mean': 43.8975688999999, 'run_time_total': 43.8975688999999, 'num_infeasible': 0}
+9: nls, ta80, steps=200, {'cost_mean': 5406.000021242537, 'cost_std': 0.0, 'run_time_mean': 37.53420139999798, 'run_time_total': 37.53420139999798, 'num_infeasible': 0}
+{'': '100x20/rosy-moon-281-200.pt', 'cost_mean': 5681.6, 'cost_std': 212.53479715096066, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 43.539400519999255, 'run_time_total': 435.39400519999253, 'num_infeasible': 0}
+0: nls, ta71, steps=200, {'cost_mean': 5793.00001747068, 'cost_std': 0.0, 'run_time_mean': 36.01612550000209, 'run_time_total': 36.01612550000209, 'num_infeasible': 0}
+1: nls, ta72, steps=200, {'cost_mean': 5425.999994762242, 'cost_std': 0.0, 'run_time_mean': 34.91636020000078, 'run_time_total': 34.91636020000078, 'num_infeasible': 0}
+2: nls, ta73, steps=200, {'cost_mean': 6055.000016765669, 'cost_std': 0.0, 'run_time_mean': 34.654323300001124, 'run_time_total': 34.654323300001124, 'num_infeasible': 0}
+3: nls, ta74, steps=200, {'cost_mean': 5501.999989897013, 'cost_std': 0.0, 'run_time_mean': 34.056456599999365, 'run_time_total': 34.056456599999365, 'num_infeasible': 0}
+4: nls, ta75, steps=200, {'cost_mean': 5902.999992934987, 'cost_std': 0.0, 'run_time_mean': 34.15086240000164, 'run_time_total': 34.15086240000164, 'num_infeasible': 0}
+5: nls, ta76, steps=200, {'cost_mean': 5700.999999761581, 'cost_std': 0.0, 'run_time_mean': 38.623549800002365, 'run_time_total': 38.623549800002365, 'num_infeasible': 0}
+6: nls, ta77, steps=200, {'cost_mean': 5593.000010926276, 'cost_std': 0.0, 'run_time_mean': 47.414178200000606, 'run_time_total': 47.414178200000606, 'num_infeasible': 0}
+7: nls, ta78, steps=200, {'cost_mean': 5725.999969496392, 'cost_std': 0.0, 'run_time_mean': 48.04218689999834, 'run_time_total': 48.04218689999834, 'num_infeasible': 0}
+8: nls, ta79, steps=200, {'cost_mean': 5531.000014948659, 'cost_std': 0.0, 'run_time_mean': 40.30061229999774, 'run_time_total': 40.30061229999774, 'num_infeasible': 0}
+9: nls, ta80, steps=200, {'cost_mean': 5410.999986939132, 'cost_std': 0.0, 'run_time_mean': 43.29316870000184, 'run_time_total': 43.29316870000184, 'num_infeasible': 0}
+{'': '100x20/whole-water-283', 'cost_mean': 5664.1, 'cost_std': 200.3703820428558, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 39.14678239000059, 'run_time_total': 391.4678239000059, 'num_infeasible': 0}
+0: nls, ta71, steps=200, {'cost_mean': 5798.999972286634, 'cost_std': 0.0, 'run_time_mean': 42.20049350000045, 'run_time_total': 42.20049350000045, 'num_infeasible': 0}
+1: nls, ta72, steps=200, {'cost_mean': 5438.999993182719, 'cost_std': 0.0, 'run_time_mean': 39.670133600000554, 'run_time_total': 39.670133600000554, 'num_infeasible': 0}
+2: nls, ta73, steps=200, {'cost_mean': 6120.999994207174, 'cost_std': 0.0, 'run_time_mean': 45.31720889999997, 'run_time_total': 45.31720889999997, 'num_infeasible': 0}
+3: nls, ta74, steps=200, {'cost_mean': 5479.999994527549, 'cost_std': 0.0, 'run_time_mean': 34.22319530000095, 'run_time_total': 34.22319530000095, 'num_infeasible': 0}
+4: nls, ta75, steps=200, {'cost_mean': 5910.999992005527, 'cost_std': 0.0, 'run_time_mean': 41.78007780000189, 'run_time_total': 41.78007780000189, 'num_infeasible': 0}
+5: nls, ta76, steps=200, {'cost_mean': 5700.999999761581, 'cost_std': 0.0, 'run_time_mean': 38.14811909999844, 'run_time_total': 38.14811909999844, 'num_infeasible': 0}
+6: nls, ta77, steps=200, {'cost_mean': 5593.000010926276, 'cost_std': 0.0, 'run_time_mean': 39.93043839999882, 'run_time_total': 39.93043839999882, 'num_infeasible': 0}
+7: nls, ta78, steps=200, {'cost_mean': 5684.999974144623, 'cost_std': 0.0, 'run_time_mean': 42.24556709999888, 'run_time_total': 42.24556709999888, 'num_infeasible': 0}
+8: nls, ta79, steps=200, {'cost_mean': 5531.000014948659, 'cost_std': 0.0, 'run_time_mean': 44.07853700000123, 'run_time_total': 44.07853700000123, 'num_infeasible': 0}
+9: nls, ta80, steps=200, {'cost_mean': 5391.999994425103, 'cost_std': 0.0, 'run_time_mean': 38.76139850000254, 'run_time_total': 38.76139850000254, 'num_infeasible': 0}
+{'': '100x20/whole-water-283', 'cost_mean': 5665.2, 'cost_std': 217.0423000246726, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 40.63551692000037, 'run_time_total': 406.35516920000373, 'num_infeasible': 0}
+0: nls, ta71, steps=200, {'cost_mean': 5798.99998473376, 'cost_std': 0.0, 'run_time_mean': 51.40050350000092, 'run_time_total': 51.40050350000092, 'num_infeasible': 0}
+1: nls, ta72, steps=200, {'cost_mean': 5438.999993182719, 'cost_std': 0.0, 'run_time_mean': 48.17825690000245, 'run_time_total': 48.17825690000245, 'num_infeasible': 0}
+2: nls, ta73, steps=200, {'cost_mean': 6047.999994920567, 'cost_std': 0.0, 'run_time_mean': 38.15073570000095, 'run_time_total': 38.15073570000095, 'num_infeasible': 0}
+3: nls, ta74, steps=200, {'cost_mean': 5479.999994527549, 'cost_std': 0.0, 'run_time_mean': 36.01879319999716, 'run_time_total': 36.01879319999716, 'num_infeasible': 0}
+4: nls, ta75, steps=200, {'cost_mean': 5902.999992934987, 'cost_std': 0.0, 'run_time_mean': 37.103966200000286, 'run_time_total': 37.103966200000286, 'num_infeasible': 0}
+5: nls, ta76, steps=200, {'cost_mean': 5727.999999367632, 'cost_std': 0.0, 'run_time_mean': 39.366227499998786, 'run_time_total': 39.366227499998786, 'num_infeasible': 0}
+6: nls, ta77, steps=200, {'cost_mean': 5593.000010926276, 'cost_std': 0.0, 'run_time_mean': 38.93125760000112, 'run_time_total': 38.93125760000112, 'num_infeasible': 0}
+7: nls, ta78, steps=200, {'cost_mean': 5723.999978994951, 'cost_std': 0.0, 'run_time_mean': 46.635723999999755, 'run_time_total': 46.635723999999755, 'num_infeasible': 0}
+8: nls, ta79, steps=200, {'cost_mean': 5537.999996778555, 'cost_std': 0.0, 'run_time_mean': 37.705796099999134, 'run_time_total': 37.705796099999134, 'num_infeasible': 0}
+9: nls, ta80, steps=200, {'cost_mean': 5406.000021242537, 'cost_std': 0.0, 'run_time_mean': 38.133793900000455, 'run_time_total': 38.133793900000455, 'num_infeasible': 0}
+{'': '100x20/whole-water-283.pt', 'cost_mean': 5665.8, 'cost_std': 200.6059819646463, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 41.162505460000105, 'run_time_total': 411.625054600001, 'num_infeasible': 0}

@@ -1,0 +1,66 @@
+0: nls, ta61, steps=200, {'cost_mean': 3166.00001650583, 'cost_std': 0.0, 'run_time_mean': 22.757729799996014, 'run_time_total': 22.757729799996014, 'num_infeasible': 0}
+1: nls, ta62, steps=200, {'cost_mean': 3268.999994834885, 'cost_std': 0.0, 'run_time_mean': 23.60234770000534, 'run_time_total': 23.60234770000534, 'num_infeasible': 0}
+2: nls, ta63, steps=200, {'cost_mean': 2993.99999619741, 'cost_std': 0.0, 'run_time_mean': 19.78167989999929, 'run_time_total': 19.78167989999929, 'num_infeasible': 0}
+3: nls, ta64, steps=200, {'cost_mean': 2984.999997312203, 'cost_std': 0.0, 'run_time_mean': 19.512263900003745, 'run_time_total': 19.512263900003745, 'num_infeasible': 0}
+4: nls, ta65, steps=200, {'cost_mean': 3137.000012844801, 'cost_std': 0.0, 'run_time_mean': 19.19103640000685, 'run_time_total': 19.19103640000685, 'num_infeasible': 0}
+5: nls, ta66, steps=200, {'cost_mean': 3157.9999999171123, 'cost_std': 0.0, 'run_time_mean': 20.886433200001193, 'run_time_total': 20.886433200001193, 'num_infeasible': 0}
+6: nls, ta67, steps=200, {'cost_mean': 3144.0000100722536, 'cost_std': 0.0, 'run_time_mean': 20.637703799999144, 'run_time_total': 20.637703799999144, 'num_infeasible': 0}
+7: nls, ta68, steps=200, {'cost_mean': 3018.000002168119, 'cost_std': 0.0, 'run_time_mean': 19.6634716999979, 'run_time_total': 19.6634716999979, 'num_infeasible': 0}
+8: nls, ta69, steps=200, {'cost_mean': 3408.000009180978, 'cost_std': 0.0, 'run_time_mean': 21.56133879999834, 'run_time_total': 21.56133879999834, 'num_infeasible': 0}
+9: nls, ta70, steps=200, {'cost_mean': 3282.9999960204586, 'cost_std': 0.0, 'run_time_mean': 21.998993399996834, 'run_time_total': 21.998993399996834, 'num_infeasible': 0}
+{'': '50x20/final-100-worthy-dawn-3123.pt', 'cost_mean': 3156.2, 'cost_std': 129.43708896603013, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 20.959299860000463, 'run_time_total': 209.59299860000465, 'num_infeasible': 0}
+0: nls, ta61, steps=200, {'cost_mean': 3154.0000101551414, 'cost_std': 0.0, 'run_time_mean': 19.408289400002104, 'run_time_total': 19.408289400002104, 'num_infeasible': 0}
+1: nls, ta62, steps=200, {'cost_mean': 3289.9999954607338, 'cost_std': 0.0, 'run_time_mean': 20.92348299999867, 'run_time_total': 20.92348299999867, 'num_infeasible': 0}
+2: nls, ta63, steps=200, {'cost_mean': 2990.9999941717833, 'cost_std': 0.0, 'run_time_mean': 20.17207139999664, 'run_time_total': 20.17207139999664, 'num_infeasible': 0}
+3: nls, ta64, steps=200, {'cost_mean': 3032.000016815029, 'cost_std': 0.0, 'run_time_mean': 20.682764800003497, 'run_time_total': 20.682764800003497, 'num_infeasible': 0}
+4: nls, ta65, steps=200, {'cost_mean': 3106.0000037457794, 'cost_std': 0.0, 'run_time_mean': 19.4038733999987, 'run_time_total': 19.4038733999987, 'num_infeasible': 0}
+5: nls, ta66, steps=200, {'cost_mean': 3109.0000067856163, 'cost_std': 0.0, 'run_time_mean': 20.202695400002995, 'run_time_total': 20.202695400002995, 'num_infeasible': 0}
+6: nls, ta67, steps=200, {'cost_mean': 3141.9999995632097, 'cost_std': 0.0, 'run_time_mean': 22.129484299999604, 'run_time_total': 22.129484299999604, 'num_infeasible': 0}
+7: nls, ta68, steps=200, {'cost_mean': 3020.000002350658, 'cost_std': 0.0, 'run_time_mean': 20.852554099998088, 'run_time_total': 20.852554099998088, 'num_infeasible': 0}
+8: nls, ta69, steps=200, {'cost_mean': 3408.000009180978, 'cost_std': 0.0, 'run_time_mean': 22.52019169999403, 'run_time_total': 22.52019169999403, 'num_infeasible': 0}
+9: nls, ta70, steps=200, {'cost_mean': 3281.0000000791624, 'cost_std': 0.0, 'run_time_mean': 22.830493800000113, 'run_time_total': 22.830493800000113, 'num_infeasible': 0}
+{'': '50x20/final-100-worthy-dawn-3123.pt', 'cost_mean': 3153.3, 'cost_std': 127.67854165833819, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 20.912590129999444, 'run_time_total': 209.12590129999444, 'num_infeasible': 0}
+0: nls, ta61, steps=200, {'cost_mean': 3144.000011270866, 'cost_std': 0.0, 'run_time_mean': 24.485697500000242, 'run_time_total': 24.485697500000242, 'num_infeasible': 0}
+1: nls, ta62, steps=200, {'cost_mean': 3289.9999954607338, 'cost_std': 0.0, 'run_time_mean': 27.50472710000031, 'run_time_total': 27.50472710000031, 'num_infeasible': 0}
+2: nls, ta63, steps=200, {'cost_mean': 2990.9999941717833, 'cost_std': 0.0, 'run_time_mean': 23.701864399998158, 'run_time_total': 23.701864399998158, 'num_infeasible': 0}
+3: nls, ta64, steps=200, {'cost_mean': 2997.99999868311, 'cost_std': 0.0, 'run_time_mean': 22.133814999993774, 'run_time_total': 22.133814999993774, 'num_infeasible': 0}
+4: nls, ta65, steps=200, {'cost_mean': 3096.000018507242, 'cost_std': 0.0, 'run_time_mean': 19.304249500004516, 'run_time_total': 19.304249500004516, 'num_infeasible': 0}
+5: nls, ta66, steps=200, {'cost_mean': 3157.9999999171123, 'cost_std': 0.0, 'run_time_mean': 25.294871600002807, 'run_time_total': 25.294871600002807, 'num_infeasible': 0}
+6: nls, ta67, steps=200, {'cost_mean': 3135.9999913629144, 'cost_std': 0.0, 'run_time_mean': 24.260628200005158, 'run_time_total': 24.260628200005158, 'num_infeasible': 0}
+7: nls, ta68, steps=200, {'cost_mean': 3020.9999904558063, 'cost_std': 0.0, 'run_time_mean': 20.326600299995334, 'run_time_total': 20.326600299995334, 'num_infeasible': 0}
+8: nls, ta69, steps=200, {'cost_mean': 3407.0000120401382, 'cost_std': 0.0, 'run_time_mean': 21.281972900003893, 'run_time_total': 21.281972900003893, 'num_infeasible': 0}
+9: nls, ta70, steps=200, {'cost_mean': 3281.0000000791624, 'cost_std': 0.0, 'run_time_mean': 21.918550999995205, 'run_time_total': 21.918550999995205, 'num_infeasible': 0}
+{'': '50x20/final-100-worthy-dawn-3123.pt', 'cost_mean': 3152.2, 'cost_std': 130.7668153623082, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 23.02129774999994, 'run_time_total': 230.2129774999994, 'num_infeasible': 0}
+0: nls, ta61, steps=200, {'cost_mean': 3154.0000101551414, 'cost_std': 0.0, 'run_time_mean': 22.22988389999955, 'run_time_total': 22.22988389999955, 'num_infeasible': 0}
+1: nls, ta62, steps=200, {'cost_mean': 3268.999994834885, 'cost_std': 0.0, 'run_time_mean': 24.145840400000452, 'run_time_total': 24.145840400000452, 'num_infeasible': 0}
+2: nls, ta63, steps=200, {'cost_mean': 2990.9999941717833, 'cost_std': 0.0, 'run_time_mean': 20.595315700003994, 'run_time_total': 20.595315700003994, 'num_infeasible': 0}
+3: nls, ta64, steps=200, {'cost_mean': 2988.999997124076, 'cost_std': 0.0, 'run_time_mean': 22.455052900004375, 'run_time_total': 22.455052900004375, 'num_infeasible': 0}
+4: nls, ta65, steps=200, {'cost_mean': 3106.0000037457794, 'cost_std': 0.0, 'run_time_mean': 25.4221236999947, 'run_time_total': 25.4221236999947, 'num_infeasible': 0}
+5: nls, ta66, steps=200, {'cost_mean': 3099.9999976661056, 'cost_std': 0.0, 'run_time_mean': 23.4447857999985, 'run_time_total': 23.4447857999985, 'num_infeasible': 0}
+6: nls, ta67, steps=200, {'cost_mean': 3129.9999922905117, 'cost_std': 0.0, 'run_time_mean': 23.43975469999714, 'run_time_total': 23.43975469999714, 'num_infeasible': 0}
+7: nls, ta68, steps=200, {'cost_mean': 3032.000007133931, 'cost_std': 0.0, 'run_time_mean': 26.074565800001437, 'run_time_total': 26.074565800001437, 'num_infeasible': 0}
+8: nls, ta69, steps=200, {'cost_mean': 3407.0000120401382, 'cost_std': 0.0, 'run_time_mean': 23.758653299999423, 'run_time_total': 23.758653299999423, 'num_infeasible': 0}
+9: nls, ta70, steps=200, {'cost_mean': 3274.9999900348485, 'cost_std': 0.0, 'run_time_mean': 22.02073240000027, 'run_time_total': 22.02073240000027, 'num_infeasible': 0}
+{'': '50x20/final-200-upbeat-butterfly-282-3126.pt', 'cost_mean': 3145.3, 'cost_std': 128.68259400556082, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 23.358670859999982, 'run_time_total': 233.58670859999984, 'num_infeasible': 0}
+0: nls, ta61, steps=200, {'cost_mean': 3154.0000101551414, 'cost_std': 0.0, 'run_time_mean': 21.222651700001734, 'run_time_total': 21.222651700001734, 'num_infeasible': 0}
+1: nls, ta62, steps=200, {'cost_mean': 3268.999994834885, 'cost_std': 0.0, 'run_time_mean': 29.850454100000206, 'run_time_total': 29.850454100000206, 'num_infeasible': 0}
+2: nls, ta63, steps=200, {'cost_mean': 2990.9999941717833, 'cost_std': 0.0, 'run_time_mean': 23.093382300001394, 'run_time_total': 23.093382300001394, 'num_infeasible': 0}
+3: nls, ta64, steps=200, {'cost_mean': 3002.0000146301463, 'cost_std': 0.0, 'run_time_mean': 21.80140780000511, 'run_time_total': 21.80140780000511, 'num_infeasible': 0}
+4: nls, ta65, steps=200, {'cost_mean': 3101.0000085448846, 'cost_std': 0.0, 'run_time_mean': 20.873796899999434, 'run_time_total': 20.873796899999434, 'num_infeasible': 0}
+5: nls, ta66, steps=200, {'cost_mean': 3157.9999999171123, 'cost_std': 0.0, 'run_time_mean': 24.640155799999775, 'run_time_total': 24.640155799999775, 'num_infeasible': 0}
+6: nls, ta67, steps=200, {'cost_mean': 3118.0000009685755, 'cost_std': 0.0, 'run_time_mean': 22.227899099998467, 'run_time_total': 22.227899099998467, 'num_infeasible': 0}
+7: nls, ta68, steps=200, {'cost_mean': 3015.9999979287386, 'cost_std': 0.0, 'run_time_mean': 25.925549699997646, 'run_time_total': 25.925549699997646, 'num_infeasible': 0}
+8: nls, ta69, steps=200, {'cost_mean': 3392.0000090114772, 'cost_std': 0.0, 'run_time_mean': 23.520526599997538, 'run_time_total': 23.520526599997538, 'num_infeasible': 0}
+9: nls, ta70, steps=200, {'cost_mean': 3265.999987738207, 'cost_std': 0.0, 'run_time_mean': 26.121034900002996, 'run_time_total': 26.121034900002996, 'num_infeasible': 0}
+{'': '50x20/final-200-upbeat-butterfly-282-3126.pt', 'cost_mean': 3146.7, 'cost_std': 124.3857306928733, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 23.92768589000043, 'run_time_total': 239.2768589000043, 'num_infeasible': 0}
+0: nls, ta61, steps=200, {'cost_mean': 3160.9999943822622, 'cost_std': 0.0, 'run_time_mean': 21.657070999994176, 'run_time_total': 21.657070999994176, 'num_infeasible': 0}
+1: nls, ta62, steps=200, {'cost_mean': 3268.999994834885, 'cost_std': 0.0, 'run_time_mean': 21.96105769999849, 'run_time_total': 21.96105769999849, 'num_infeasible': 0}
+2: nls, ta63, steps=200, {'cost_mean': 2992.999994907528, 'cost_std': 0.0, 'run_time_mean': 24.01771149999695, 'run_time_total': 24.01771149999695, 'num_infeasible': 0}
+3: nls, ta64, steps=200, {'cost_mean': 2995.999992599711, 'cost_std': 0.0, 'run_time_mean': 21.540638300000865, 'run_time_total': 21.540638300000865, 'num_infeasible': 0}
+4: nls, ta65, steps=200, {'cost_mean': 3106.0000037457794, 'cost_std': 0.0, 'run_time_mean': 20.005732100005844, 'run_time_total': 20.005732100005844, 'num_infeasible': 0}
+5: nls, ta66, steps=200, {'cost_mean': 3109.0000067856163, 'cost_std': 0.0, 'run_time_mean': 20.103383399997256, 'run_time_total': 20.103383399997256, 'num_infeasible': 0}
+6: nls, ta67, steps=200, {'cost_mean': 3162.0000172471628, 'cost_std': 0.0, 'run_time_mean': 24.808945500000846, 'run_time_total': 24.808945500000846, 'num_infeasible': 0}
+7: nls, ta68, steps=200, {'cost_mean': 3014.9999969154596, 'cost_std': 0.0, 'run_time_mean': 22.874800799996592, 'run_time_total': 22.874800799996592, 'num_infeasible': 0}
+8: nls, ta69, steps=200, {'cost_mean': 3407.0000120401382, 'cost_std': 0.0, 'run_time_mean': 23.6168800000014, 'run_time_total': 23.6168800000014, 'num_infeasible': 0}
+9: nls, ta70, steps=200, {'cost_mean': 3266.000002121553, 'cost_std': 0.0, 'run_time_mean': 27.13134440000431, 'run_time_total': 27.13134440000431, 'num_infeasible': 0}
+{'': '50x20/final-200-upbeat-butterfly-282-3126.pt', 'cost_mean': 3148.4, 'cost_std': 128.1063620590328, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 22.771756469999673, 'run_time_total': 227.71756469999673, 'num_infeasible': 0}

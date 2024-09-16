@@ -1,0 +1,199 @@
+
+Loading all instances in /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/data/JSSP/jssp15x15/test
+['t_456_100.pt']
+specified additional args: env=jssp15x15_unf
+jssp /mnt/c/users/fabia/onedrive/myuni/masterarbeit/neurols_decisiontransformer/data/jssp/
+writing to: /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/outputs_experiment/JSSP_jssp15x15/test/results_nls.log
+running /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/run_nls_jssp.py for t_456_100
+
+done.
+
+
+1311.0
+11.103635903999676
+-------------------
+makespan 1311.0 makespan
+std 0.0 std
+None
+11.103635903999676
+1110.3635903999675
+<DirEntry 'colorfull-bush.pt'>: 1311.0 -> 6e-2 64
+
+
+
+
+Loading all instances in /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/data/JSSP/jssp15x15/test
+['t_456_100.pt']
+specified additional args: env=jssp15x15_unf
+jssp /mnt/c/users/fabia/onedrive/myuni/masterarbeit/neurols_decisiontransformer/data/jssp/
+writing to: /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/outputs_experiment/JSSP_jssp15x15/test/results_nls.log
+running /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/run_nls_jssp.py for t_456_100
+
+done.
+
+
+1310.0
+15.673400124001782
+-------------------
+makespan 1310.0 makespan
+std 0.0 std
+None
+15.673400124001782
+1567.3400124001782
+<DirEntry 'fresh-wave-244-1299.pt'>: 1310.0 -> 6e-2 128 1310
+
+
+
+Loading all instances in /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/data/JSSP/jssp15x15/test
+['t_456_100.pt']
+specified additional args: env=jssp15x15_unf
+jssp /mnt/c/users/fabia/onedrive/myuni/masterarbeit/neurols_decisiontransformer/data/jssp/
+writing to: /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/outputs_experiment/JSSP_jssp15x15/test/results_nls.log
+running /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/run_nls_jssp.py for t_456_100
+
+done.
+
+1323.0
+14.82451554499974
+-------------------
+makespan 1315.0 makespan
+std 0.0 std
+None
+14.82451554499974
+1482.451554499974
+<DirEntry 'mild-plasma.pt'>: 1315.0 -> 6e-4 512
+
+
+
+Loading all instances in /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/data/JSSP/jssp15x15/test
+['t_456_100.pt']
+specified additional args: env=jssp15x15_unf
+jssp /mnt/c/users/fabia/onedrive/myuni/masterarbeit/neurols_decisiontransformer/data/jssp/
+writing to: /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/outputs_experiment/JSSP_jssp15x15/test/results_nls.log
+running /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/run_nls_jssp.py for t_456_100
+
+done.
+
+
+1327.0
+15.699955387999653
+-------------------
+makespan 1327.0 makespan
+std 0.0 std
+None
+15.699955387999653
+1569.9955387999653
+<DirEntry 'polar-oath-235-1311.pt'>: 1327.0 -> 6e-3 512
+
+
+r
+Loading all instances in /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/data/JSSP/jssp15x15/test
+['t_456_100.pt']
+specified additional args: env=jssp15x15_unf
+jssp /mnt/c/users/fabia/onedrive/myuni/masterarbeit/neurols_decisiontransformer/data/jssp/
+writing to: /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/outputs_experiment/JSSP_jssp15x15/test/results_nls.log
+running /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/run_nls_jssp.py for t_456_100
+
+done.
+
+
+1310.0
+17.990010466999955
+-------------------
+makespan 1311.0 makespan
+std 0.0 std
+None
+17.990010466999955
+1799.0010466999956
+<DirEntry 'twighlight-forest-242.pt'>: 1311.0 -> 6e-3 64
+
+
+
+Loading all instances in /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/data/JSSP/jssp15x15/test
+['t_456_100.pt']
+specified additional args: env=jssp15x15_unf
+jssp /mnt/c/users/fabia/onedrive/myuni/masterarbeit/neurols_decisiontransformer/data/jssp/
+writing to: /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/outputs_experiment/JSSP_jssp15x15/test/results_nls.log
+running /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/run_nls_jssp.py for t_456_100
+
+done.
+
+
+1323.0
+16.716887152001146
+-------------------
+makespan 1323.0 makespan
+std 0.0 std
+None
+16.716887152001146
+1671.6887152001145
+<DirEntry 'worldly-valley-1306.pt'>: 1323.0 -> 6e-3 128
+
+
+
+Loading all instances in /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/data/JSSP/jssp15x15/test
+['t_456_100.pt']
+specified additional args: env=jssp15x15_unf
+jssp /mnt/c/users/fabia/onedrive/myuni/masterarbeit/neurols_decisiontransformer/data/jssp/
+writing to: /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/outputs_experiment/JSSP_jssp15x15/test/results_nls.log
+running /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/run_nls_jssp.py for t_456_100
+
+done.
+
+
+
+1325.0
+17.685720260004747
+-------------------
+makespan 1325.0 makespan
+std 0.0 std
+None
+17.685720260004747
+1768.5720260004746 <DirEntry 'worthy-firefly-241.pt'>: 1325.0 -> 6e-4 64
+
+
+
+Loading all instances in /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/data/JSSP/jssp15x15/test
+['t_456_100.pt']
+specified additional args: env=jssp15x15_unf
+jssp /mnt/c/users/fabia/onedrive/myuni/masterarbeit/neurols_decisiontransformer/data/jssp/
+writing to: /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/outputs_experiment/JSSP_jssp15x15/test/results_nls.log
+running /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/run_nls_jssp.py for t_456_100
+
+done.
+
+
+
+1315.0
+17.685720260004747
+-------------------
+makespan 1315.0 makespan
+std 0.0 std
+None
+17.685720260004747
+1768.5720260004746 <DirEntry 'worthy-firefly-241.pt'>: 1315.0 -> 6e-4 128
+
+
+
+Loading all instances in /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/data/JSSP/jssp15x15/test
+['t_456_100.pt']
+specified additional args: env=jssp15x15_unf
+jssp /mnt/c/users/fabia/onedrive/myuni/masterarbeit/neurols_decisiontransformer/data/jssp/
+writing to: /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/outputs_experiment/JSSP_jssp15x15/test/results_nls.log
+running /mnt/c/Users/fabia/OneDrive/MyUni/Masterarbeit/NeuroLS_DecisionTransformer/run_nls_jssp.py for t_456_100
+
+done.
+
+
+1319.0
+19.191099797998906
+-------------------
+makespan 1319.0 makespan
+std 0.0 std
+None
+19.191099797998906
+1919.1099797998904
+
+<DirEntry 'youthfull-jazz-239-1309.pt'>: 1319.0 -> 6e-2 512
+
+Process finished with exit code 0

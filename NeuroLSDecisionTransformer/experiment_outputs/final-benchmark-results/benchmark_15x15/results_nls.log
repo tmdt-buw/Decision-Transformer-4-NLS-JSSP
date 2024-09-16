@@ -1,0 +1,66 @@
+0: nls, ta01, steps=200, {'cost_mean': 1334.9999988488853, 'cost_std': 0.0, 'run_time_mean': 10.034422700002324, 'run_time_total': 10.034422700002324, 'num_infeasible': 0}
+1: nls, ta02, steps=200, {'cost_mean': 1303.0000073611736, 'cost_std': 0.0, 'run_time_mean': 7.231719599993085, 'run_time_total': 7.231719599993085, 'num_infeasible': 0}
+2: nls, ta03, steps=200, {'cost_mean': 1305.0000167638063, 'cost_std': 0.0, 'run_time_mean': 7.282943800004432, 'run_time_total': 7.282943800004432, 'num_infeasible': 0}
+3: nls, ta04, steps=200, {'cost_mean': 1289.000004529953, 'cost_std': 0.0, 'run_time_mean': 7.361463600012939, 'run_time_total': 7.361463600012939, 'num_infeasible': 0}
+4: nls, ta05, steps=200, {'cost_mean': 1317.000001816079, 'cost_std': 0.0, 'run_time_mean': 8.159257500010426, 'run_time_total': 8.159257500010426, 'num_infeasible': 0}
+5: nls, ta06, steps=200, {'cost_mean': 1304.0000024735928, 'cost_std': 0.0, 'run_time_mean': 11.30124220000289, 'run_time_total': 11.30124220000289, 'num_infeasible': 0}
+6: nls, ta07, steps=200, {'cost_mean': 1275.9999977052212, 'cost_std': 0.0, 'run_time_mean': 8.999423000001116, 'run_time_total': 8.999423000001116, 'num_infeasible': 0}
+7: nls, ta08, steps=200, {'cost_mean': 1273.0000053606927, 'cost_std': 0.0, 'run_time_mean': 7.90659240000241, 'run_time_total': 7.90659240000241, 'num_infeasible': 0}
+8: nls, ta09, steps=200, {'cost_mean': 1447.999981686473, 'cost_std': 0.0, 'run_time_mean': 10.953739899996435, 'run_time_total': 10.953739899996435, 'num_infeasible': 0}
+9: nls, ta10, steps=200, {'cost_mean': 1379.9999988069758, 'cost_std': 0.0, 'run_time_mean': 10.522215100005269, 'run_time_total': 10.522215100005269, 'num_infeasible': 0}
+{'': '15x15/brisk-lake-1290.pt', 'cost_mean': 1323.0, 'cost_std': 50.994117307783654, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 8.975301980003133, 'run_time_total': 89.75301980003132, 'num_infeasible': 0}
+0: nls, ta01, steps=200, {'cost_mean': 1332.0000013411045, 'cost_std': 0.0, 'run_time_mean': 14.349367999995593, 'run_time_total': 14.349367999995593, 'num_infeasible': 0}
+1: nls, ta02, steps=200, {'cost_mean': 1324.0000094622374, 'cost_std': 0.0, 'run_time_mean': 10.498936099989805, 'run_time_total': 10.498936099989805, 'num_infeasible': 0}
+2: nls, ta03, steps=200, {'cost_mean': 1316.0000028312206, 'cost_std': 0.0, 'run_time_mean': 14.309617000006256, 'run_time_total': 14.309617000006256, 'num_infeasible': 0}
+3: nls, ta04, steps=200, {'cost_mean': 1343.999997653067, 'cost_std': 0.0, 'run_time_mean': 8.233356199998525, 'run_time_total': 8.233356199998525, 'num_infeasible': 0}
+4: nls, ta05, steps=200, {'cost_mean': 1275.0000123661011, 'cost_std': 0.0, 'run_time_mean': 9.51427459999104, 'run_time_total': 9.51427459999104, 'num_infeasible': 0}
+5: nls, ta06, steps=200, {'cost_mean': 1298.999997407198, 'cost_std': 0.0, 'run_time_mean': 9.378780400002142, 'run_time_total': 9.378780400002142, 'num_infeasible': 0}
+6: nls, ta07, steps=200, {'cost_mean': 1308.999994263053, 'cost_std': 0.0, 'run_time_mean': 8.428707300001406, 'run_time_total': 8.428707300001406, 'num_infeasible': 0}
+7: nls, ta08, steps=200, {'cost_mean': 1285.0000007394701, 'cost_std': 0.0, 'run_time_mean': 7.8845418999990216, 'run_time_total': 7.8845418999990216, 'num_infeasible': 0}
+8: nls, ta09, steps=200, {'cost_mean': 1432.9999963603914, 'cost_std': 0.0, 'run_time_mean': 7.866571200007456, 'run_time_total': 7.866571200007456, 'num_infeasible': 0}
+9: nls, ta10, steps=200, {'cost_mean': 1344.0000089826062, 'cost_std': 0.0, 'run_time_mean': 7.778121100011049, 'run_time_total': 7.778121100011049, 'num_infeasible': 0}
+{'': '15x15/brisk-lake-1290.pt', 'cost_mean': 1326.1, 'cost_std': 41.87708203779246, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 9.824227380000229, 'run_time_total': 98.2422738000023, 'num_infeasible': 0}
+0: nls, ta01, steps=200, {'cost_mean': 1332.0000061355531, 'cost_std': 0.0, 'run_time_mean': 8.68971840001177, 'run_time_total': 8.68971840001177, 'num_infeasible': 0}
+1: nls, ta02, steps=200, {'cost_mean': 1319.0000021830201, 'cost_std': 0.0, 'run_time_mean': 15.14993990000221, 'run_time_total': 15.14993990000221, 'num_infeasible': 0}
+2: nls, ta03, steps=200, {'cost_mean': 1316.0000124201179, 'cost_std': 0.0, 'run_time_mean': 11.069090100005269, 'run_time_total': 11.069090100005269, 'num_infeasible': 0}
+3: nls, ta04, steps=200, {'cost_mean': 1313.0000047683716, 'cost_std': 0.0, 'run_time_mean': 9.127708399988478, 'run_time_total': 9.127708399988478, 'num_infeasible': 0}
+4: nls, ta05, steps=200, {'cost_mean': 1282.0000017564744, 'cost_std': 0.0, 'run_time_mean': 8.950579900003504, 'run_time_total': 8.950579900003504, 'num_infeasible': 0}
+5: nls, ta06, steps=200, {'cost_mean': 1345.0000056624413, 'cost_std': 0.0, 'run_time_mean': 16.96586440000101, 'run_time_total': 16.96586440000101, 'num_infeasible': 0}
+6: nls, ta07, steps=200, {'cost_mean': 1310.0000090142712, 'cost_std': 0.0, 'run_time_mean': 12.984439099993324, 'run_time_total': 12.984439099993324, 'num_infeasible': 0}
+7: nls, ta08, steps=200, {'cost_mean': 1303.9999984167516, 'cost_std': 0.0, 'run_time_mean': 15.49626790000184, 'run_time_total': 15.49626790000184, 'num_infeasible': 0}
+8: nls, ta09, steps=200, {'cost_mean': 1452.0000019669533, 'cost_std': 0.0, 'run_time_mean': 11.506332100005238, 'run_time_total': 11.506332100005238, 'num_infeasible': 0}
+9: nls, ta10, steps=200, {'cost_mean': 1355.0000034403056, 'cost_std': 0.0, 'run_time_mean': 12.156352499994682, 'run_time_total': 12.156352499994682, 'num_infeasible': 0}
+{'': '15x15/brisk-lake-1290.pt', 'cost_mean': 1332.8, 'cost_std': 44.323357273564014, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 12.209629270000733, 'run_time_total': 122.09629270000733, 'num_infeasible': 0}
+0: nls, ta01, steps=200, {'cost_mean': 1283.999999910593, 'cost_std': 0.0, 'run_time_mean': 7.278443999995943, 'run_time_total': 7.278443999995943, 'num_infeasible': 0}
+1: nls, ta02, steps=200, {'cost_mean': 1306.9999981373549, 'cost_std': 0.0, 'run_time_mean': 6.991499299998395, 'run_time_total': 6.991499299998395, 'num_infeasible': 0}
+2: nls, ta03, steps=200, {'cost_mean': 1333.0000075176358, 'cost_std': 0.0, 'run_time_mean': 7.397035199974198, 'run_time_total': 7.397035199974198, 'num_infeasible': 0}
+3: nls, ta04, steps=200, {'cost_mean': 1274.9999958723783, 'cost_std': 0.0, 'run_time_mean': 7.196204599982593, 'run_time_total': 7.196204599982593, 'num_infeasible': 0}
+4: nls, ta05, steps=200, {'cost_mean': 1307.0000033006072, 'cost_std': 0.0, 'run_time_mean': 7.304114300000947, 'run_time_total': 7.304114300000947, 'num_infeasible': 0}
+5: nls, ta06, steps=200, {'cost_mean': 1355.9999836161733, 'cost_std': 0.0, 'run_time_mean': 7.247208599990699, 'run_time_total': 7.247208599990699, 'num_infeasible': 0}
+6: nls, ta07, steps=200, {'cost_mean': 1308.999992787838, 'cost_std': 0.0, 'run_time_mean': 7.233560299966484, 'run_time_total': 7.233560299966484, 'num_infeasible': 0}
+7: nls, ta08, steps=200, {'cost_mean': 1336.9999852012843, 'cost_std': 0.0, 'run_time_mean': 7.2756742000347, 'run_time_total': 7.2756742000347, 'num_infeasible': 0}
+8: nls, ta09, steps=200, {'cost_mean': 1447.0000024326146, 'cost_std': 0.0, 'run_time_mean': 7.508957999991253, 'run_time_total': 7.508957999991253, 'num_infeasible': 0}
+9: nls, ta10, steps=200, {'cost_mean': 1397.0000223945826, 'cost_std': 0.0, 'run_time_mean': 7.317428900045343, 'run_time_total': 7.317428900045343, 'num_infeasible': 0}
+{'': 'fresh-wave-244-1299.pt', 'cost_mean': 1335.2, 'cost_std': 50.28081144929943, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 7.275012739998056, 'run_time_total': 72.75012739998056, 'num_infeasible': 0}
+0: nls, ta01, steps=200, {'cost_mean': 1364.9999978989363, 'cost_std': 0.0, 'run_time_mean': 7.382568900007755, 'run_time_total': 7.382568900007755, 'num_infeasible': 0}
+1: nls, ta02, steps=200, {'cost_mean': 1348.9999993890524, 'cost_std': 0.0, 'run_time_mean': 7.2257488000323065, 'run_time_total': 7.2257488000323065, 'num_infeasible': 0}
+2: nls, ta03, steps=200, {'cost_mean': 1333.0000075176358, 'cost_std': 0.0, 'run_time_mean': 7.1986394000123255, 'run_time_total': 7.1986394000123255, 'num_infeasible': 0}
+3: nls, ta04, steps=200, {'cost_mean': 1313.9999969899654, 'cost_std': 0.0, 'run_time_mean': 7.105590299994219, 'run_time_total': 7.105590299994219, 'num_infeasible': 0}
+4: nls, ta05, steps=200, {'cost_mean': 1290.9999937266111, 'cost_std': 0.0, 'run_time_mean': 7.842707900039386, 'run_time_total': 7.842707900039386, 'num_infeasible': 0}
+5: nls, ta06, steps=200, {'cost_mean': 1361.9999955967069, 'cost_std': 0.0, 'run_time_mean': 7.24989460001234, 'run_time_total': 7.24989460001234, 'num_infeasible': 0}
+6: nls, ta07, steps=200, {'cost_mean': 1305.999992698431, 'cost_std': 0.0, 'run_time_mean': 7.033648299984634, 'run_time_total': 7.033648299984634, 'num_infeasible': 0}
+7: nls, ta08, steps=200, {'cost_mean': 1299.0000019250438, 'cost_std': 0.0, 'run_time_mean': 7.0679599000141025, 'run_time_total': 7.0679599000141025, 'num_infeasible': 0}
+8: nls, ta09, steps=200, {'cost_mean': 1463.9999934732914, 'cost_std': 0.0, 'run_time_mean': 7.125574900011998, 'run_time_total': 7.125574900011998, 'num_infeasible': 0}
+9: nls, ta10, steps=200, {'cost_mean': 1397.0000223945826, 'cost_std': 0.0, 'run_time_mean': 7.20253320003394, 'run_time_total': 7.20253320003394, 'num_infeasible': 0}
+{'': 'fresh-wave-244-1299.pt', 'cost_mean': 1348.0, 'cost_std': 50.13781008380801, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 7.2434866200143, 'run_time_total': 72.434866200143, 'num_infeasible': 0}
+0: nls, ta01, steps=200, {'cost_mean': 1321.0000049471855, 'cost_std': 0.0, 'run_time_mean': 7.2052590000093915, 'run_time_total': 7.2052590000093915, 'num_infeasible': 0}
+1: nls, ta02, steps=200, {'cost_mean': 1348.0000005885959, 'cost_std': 0.0, 'run_time_mean': 7.195077900018077, 'run_time_total': 7.195077900018077, 'num_infeasible': 0}
+2: nls, ta03, steps=200, {'cost_mean': 1333.0000075176358, 'cost_std': 0.0, 'run_time_mean': 7.157985700003337, 'run_time_total': 7.157985700003337, 'num_infeasible': 0}
+3: nls, ta04, steps=200, {'cost_mean': 1350.000006109476, 'cost_std': 0.0, 'run_time_mean': 7.123113200010266, 'run_time_total': 7.123113200010266, 'num_infeasible': 0}
+4: nls, ta05, steps=200, {'cost_mean': 1312.000011317432, 'cost_std': 0.0, 'run_time_mean': 7.334663400019053, 'run_time_total': 7.334663400019053, 'num_infeasible': 0}
+5: nls, ta06, steps=200, {'cost_mean': 1334.9999962672591, 'cost_std': 0.0, 'run_time_mean': 7.277005500043742, 'run_time_total': 7.277005500043742, 'num_infeasible': 0}
+6: nls, ta07, steps=200, {'cost_mean': 1290.9999974146485, 'cost_std': 0.0, 'run_time_mean': 7.346976699947845, 'run_time_total': 7.346976699947845, 'num_infeasible': 0}
+7: nls, ta08, steps=200, {'cost_mean': 1318.9999983105808, 'cost_std': 0.0, 'run_time_mean': 7.4982655000058, 'run_time_total': 7.4982655000058, 'num_infeasible': 0}
+8: nls, ta09, steps=200, {'cost_mean': 1459.9999960586429, 'cost_std': 0.0, 'run_time_mean': 8.954829199996311, 'run_time_total': 8.954829199996311, 'num_infeasible': 0}
+9: nls, ta10, steps=200, {'cost_mean': 1344.0000144224614, 'cost_std': 0.0, 'run_time_mean': 7.159279100014828, 'run_time_total': 7.159279100014828, 'num_infeasible': 0}
+{'': 'fresh-wave-244-1299.pt', 'cost_mean': 1341.3, 'cost_std': 43.1556485294799, 'num_vehicles_mean': None, 'num_vehicles_std': None, 'num_vehicles_median': None, 'run_time_mean': 7.425245520006865, 'run_time_total': 74.25245520006865, 'num_infeasible': 0}
